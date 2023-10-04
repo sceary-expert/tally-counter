@@ -1,4 +1,9 @@
-/* TallyCounter.css */
+html,body{
+  padding:0;
+    margin: 0;
+    height:100%;
+    width: 100%;
+}
 .tally-counter-form {
     text-align: center;
     padding: 20px;

@@ -1,11 +1,13 @@
-import TallyCounter from './TallyCounter';
+
 import './App.css';
+
+import SignIn from './Sign-in';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <TallyCounter />
+        <SignIn/>
       </header>
     </div>
   );
